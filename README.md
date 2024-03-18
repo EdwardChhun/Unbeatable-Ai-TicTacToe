@@ -58,9 +58,9 @@ pip3 install -r requirements.txt
 
 ## Screenshots
 
-![Main Window](https://github.com/me50/EdwardChhun/blob/master/images/play-ttt.png)
-![Play as O](https://github.com/me50/EdwardChhun/blob/master/images/play-O.png)
-![Computer Thinking](https://github.com/me50/EdwardChhun/blob/master/images/ttt-computer-thinking.png)
-![Tie](https://github.com/me50/EdwardChhun/blob/master/images/ttt-tie.png)
-![X Wins](https://github.com/me50/EdwardChhun/blob/master/images/ttt-X-Wins.png)
+![Main Window](https://github.com/EdwardChhun/Unbeatable-Ai-TicTacToe/blob/main/images/play-ttt.png)
+![Play as O](https://github.com/EdwardChhun/Unbeatable-Ai-TicTacToe/blob/main/images/play-O.png)
+![Computer Thinking](https://github.com/EdwardChhun/Unbeatable-Ai-TicTacToe/blob/main/images/ttt-computer-thinking.png)
+![Tie](https://github.com/EdwardChhun/Unbeatable-Ai-TicTacToe/blob/main/images/ttt-tie.png)
+![X Wins](https://github.com/EdwardChhun/Unbeatable-Ai-TicTacToe/blob/main/images/ttt-X-Wins.png)
 
