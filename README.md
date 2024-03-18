@@ -52,15 +52,11 @@ pip3 install -r requirements.txt
 - Developed by Edward Chhun.
 - Inspired by CS50AI, Introduction to AI with Python 2024
 
-## License
-
-This project is licensed under the [ED LICENSE](license) (jk)
-
 ## Screenshots
 
-![Main Window](images\play-ttt.png)
-![Play as O](images\play-O.png)
-![Computer Thinking](images\ttt-computer-thinking.png)
-![Tie](images\ttt-tie.png)
-![X Wins](images\ttt-X-Wins.png)
+![Main Window](https://github.com/me50/EdwardChhun/blob/master/images/play-ttt.png)
+![Play as O](https://github.com/me50/EdwardChhun/blob/master/images/play-O.png)
+![Computer Thinking](https://github.com/me50/EdwardChhun/blob/master/images/ttt-computer-thinking.png)
+![Tie](https://github.com/me50/EdwardChhun/blob/master/images/ttt-tie.png)
+![X Wins](https://github.com/me50/EdwardChhun/blob/master/images/ttt-X-Wins.png)
 
