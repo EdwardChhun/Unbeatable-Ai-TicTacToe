@@ -2,12 +2,6 @@
 Tic Tac Toe Player
 """
 
-"""
-BUGS:
-1. Doesn't stop when one person wins (Solved)
-2. When picking O, the AI is very slow (Make X enter the middle)
-"""
-
 import math
 import copy
 
