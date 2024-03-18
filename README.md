@@ -52,6 +52,10 @@ pip3 install -r requirements.txt
 - Developed by Edward Chhun.
 - Inspired by CS50AI, Introduction to AI with Python 2024
 
+## Questions
+
+- If there's any questions or if you need any help, contact Edwardchhun3@gmail.com
+
 ## Screenshots
 
 ![Main Window](https://github.com/me50/EdwardChhun/blob/master/images/play-ttt.png)
