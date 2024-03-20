@@ -1,6 +1,6 @@
 # Unbeatable AI Tic Tac Toe
 
-Welcome to Unbeatable AI Tic Tac Toe! This is a console-based Tic Tac Toe game where you can play against an unbeatable AI opponent. The AI uses the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) to determine its moves, ensuring that the computer plays optimally and never loses. Keep in mind, that this program makes X go first.
+Welcome to Unbeatable AI Tic Tac Toe! This is a Tic Tac Toe game played on an external window using [PyGame's](https://www.pygame.org/docs/) GUI feature where you can play against an unbeatable AI opponent. The AI uses the [Minimax algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/) to determine its moves, ensuring that the computer plays optimally and never loses. Keep in mind, that this program makes X go first.
 
 ## How to Play
 
