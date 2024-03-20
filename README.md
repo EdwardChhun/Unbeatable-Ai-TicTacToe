@@ -51,7 +51,7 @@ pip3 install -r requirements.txt
 
 - The Minimax algorithm implementation for the AI opponent is based on concepts from artificial intelligence and game theory.
 - Developed by Edward Chhun.
-- Inspired by CS50AI, Introduction to AI with Python 2024
+- Inspired by [CS50AI](https://cs50.harvard.edu/ai/2024/), Introduction to AI with Python 2024
 
 ## Questions
 
