@@ -42,6 +42,7 @@ pip3 install -r requirements.txt
 
 ## Future Improvements
 
+- Video Demo
 - Difficulty Levels: Add options for different difficulty levels, allowing players to choose the AI's playing strength.
 - Online Multiplayer: Implement online multiplayer functionality to allow players to compete against each other over the internet.
 - Faster optimization for computer, implementing Depth-Limited Minimax Algorithm.
